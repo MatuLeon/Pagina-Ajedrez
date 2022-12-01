@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+nav {
+  background-color: #E7E5DF;
+  font-size: 17px; }
+
+/* Medias Mobile 320px - 767px*/
+@media (min-width: 320px) and (max-width: 767px) {
+  /*--------FOOTER------------*/
+  footer {
+    display: flex;
+    flex-direction: row; } }
